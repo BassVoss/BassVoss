@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BassVoss
 - 👀 I’m interested in learn and develop programs
 - 🌱 I’m currently learning javascript
-- 💞️ I’m not collaborate at moment
 - 📫 How to reach me ; Please send a e-mail to rbz@duck.com
 
 <!---
